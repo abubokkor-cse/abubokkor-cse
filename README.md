@@ -51,11 +51,10 @@ Passionate about building intelligent systems and solving real-world problems.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=abubokkor-cse&theme=radical&hide_border=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abubokkor-cse&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubokkor-cse&theme=radical&hide_border=true&layout=compact)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=abubokkor-cse&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abubokkor-cse&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abubokkor-cse&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
